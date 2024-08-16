@@ -1,7 +1,0 @@
----
-layout: post
-date: 2023-07-10 16:11:00-0400
-inline: true
----
-
-Joined as a Software Development Enginner in Test (SDET) at Enphase Energy in Bangalore, India
