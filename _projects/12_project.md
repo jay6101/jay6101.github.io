@@ -3,7 +3,7 @@ layout: page
 title: MedAId
 description: RAG-based Multimodal Medical QnA App
 img: assets/img/medical_chatbot.jpg
-importance: 1
+importance: 3
 category: Projects (UCSD)
 ---
 

@@ -15,19 +15,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <p align="justify">
-Hello, I am Jay Sawant, a Master's student in Data Science at <a href="https://ucsd.edu">University of California, San Diego</a>. I am also an alumnus of the prestigious <a href="https://www.iitb.ac.in/">Indian Institute of Technology (IIT) Bombay</a>, where I earned a Dual Degree in Electrical Engineering with a specialization in Communication and Signal Processing.
+Hello, I am Jay Sawant, a Master's student in Data Science at <a href="https://ucsd.edu">University of California, San Diego</a> and an alumnus of <a href="https://www.iitb.ac.in/">IIT Bombay</a>, where I completed a Dual Degree in Electrical Engineering (Communication and Signal Processing).
 </p>
 
 <p align="justify">
-I am currently a Graduate Student Researcher at the Lab of Cognitive Imaging, UCSD Health, where I am developing a conditional latent diffusion pipeline for generating high-fidelity, class-specific synthetic 3D brain MRIs. This work supports downstream classification tasks, such as detecting Temporal Lobe Epilepsy in T1-weighted MRI scans.
+My research spans medical imaging and autonomous driving. At UCSD Health’s Lab of Cognitive Imaging, I work on deep learning for epilepsy: CNN-based methods for Temporal Lobe Epilepsy classification from MRI, conditional latent diffusion models for generating synthetic 3D T1 brain MRIs, and vision–language models that combine imaging with clinical text.
 </p>
 
 <p align="justify">
-My M.Tech thesis research at IIT Bombay focused on deep learning applications in Histopathology and Medical Imaging, particularly developing innovative techniques for Quality Control of Whole Slide Images (WSI) using active learning and segmentation methods.
+I am also interested in learning-based autonomous driving. As a Research Engineer Intern at Netradyne, I worked on imitation learning, benchmarking large camera-only and multi-modal models, scaling data for simpler architectures, and exploring temporal attention for closed-loop driving performance on benchmarks such as CARLA Leaderboard and Bench2Drive.
 </p>
-
-<p align="justify">  </p>
-
-<!--- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->

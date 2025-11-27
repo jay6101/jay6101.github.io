@@ -3,7 +3,7 @@ layout: page
 title: Cross-Person Virtual Try-On
 description: Addressing the problem of person to person garment transfer using Diffusion Transformer 
 img: assets/img/vton.png
-importance: 1
+importance: 2
 category: Projects (UCSD)
 ---
 
